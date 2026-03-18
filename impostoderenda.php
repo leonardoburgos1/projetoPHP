@@ -43,5 +43,6 @@
 				Porcetagem de desconto: %.1f%%<br/>
 				Valor do desconto: R$%.2f <br/>
 				Salário líquido: R$%.2f", $sal, $pct, $imposto, $sali);
+		//comentario
 	}
  ?>
